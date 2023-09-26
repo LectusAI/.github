@@ -1,7 +1,7 @@
 <!-- QuantumCI: A Quantum Leap in Microservice Infrastructure Automation -->
 
 <p align="center">
-  <img src="https://your-image-url.com/quantumci-logo.png" alt="QuantumCI Logo" width="200">
+  <img src="https://media.giphy.com/media/1lDDbtArVOHPrERDf2/giphy.gif" alt="QuantumCI Logo" width="200">
 </p>
 
 # QuantumCI: A Quantum Leap in Microservice Infrastructure Automation
