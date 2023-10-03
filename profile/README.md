@@ -8,8 +8,8 @@
 
 Welcome to QuantumCI, where we transform the way you set up infrastructure for microservice applications. Harness the power of Docker, Terraform, Kubernetes, and GitHub Actions to streamline your development pipeline and deployment processes.
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/quantumci/quantumci/CI%20Pipeline?style=flat-square)
-![GitHub License](https://img.shields.io/github/license/quantumci/quantumci?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/issues/quantumci/.github)
+![GitHub License](https://img.shields.io/github/license/quantumci/.github)
 
 ---
 
@@ -46,7 +46,7 @@ We welcome contributions! Please read our [**Contribution Guidelines**](https://
 
 Join our QuantumCI community on [**Discussions**](https://github.com/quantumci/quantumci/discussions) and [**Twitter**](https://twitter.com/QuantumCI) for updates, discussions, and support.
 
-![Discussions](https://your-image-url.com/discussions-screenshot.png)
+![Discussions](https://img.shields.io/github/discussions/quantumci/.github)
 
 ---
 
